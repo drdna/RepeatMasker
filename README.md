@@ -1,5 +1,5 @@
 # RepeatMasker
-Masking of ALL operational repeats for accurate SNP calling
+## Masking of ALL operational repeats for accurate SNP calling
 1. Place all genomes in a dedicated directory:
 ```bash
 mkdir UnmaskedGenomes
