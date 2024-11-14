@@ -13,5 +13,5 @@ chmod a+x RMSA.pm
 ```
 3. Run the [RepeatMasker.pl](/scripts/RepeatMasker.pl) script:
 ```bash
-for f in $(ls UnmaskedGenomes/*fasta); do perl Run_RMSA.pl $f; done
+for f in $(ls UnmaskedGenomes/*fasta); do perl RepeatMasker.pl $f; done
 ```
